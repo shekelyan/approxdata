@@ -25,7 +25,6 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include <approxdata/data/data.h>
 #include <approxdata/datasummaries/DataSummary.h>
 #include <approxdata/datasummaries/RandomSample.h>
-#include <approxdata/datasummaries/QuantileSummary.h>
 #include <approxdata/datasummaries/GridHist.h>
 #include <approxdata/datasummaries/DigitHist.h>
 #include <approxdata/datasummaries/DyadicHist.h>
