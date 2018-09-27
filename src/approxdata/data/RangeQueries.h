@@ -93,7 +93,7 @@ public:
 		}
 	}
 	
-	inline void add(const nlohmann:json& j){
+	inline void add(const nlohmann::json& j){
 		
 		const long size = j["queries"].size();
 		
